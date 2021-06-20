@@ -1,7 +1,7 @@
 
 
 
-### 🦄 Timo Sarkar 
+### Hello, world! It's me Timo Sarkar 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timo-cmd2" alt="timo-cmd2" /> </p> 
 
