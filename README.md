@@ -5,8 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timo-cmd2" alt="timo-cmd2" /> </p> 
 
-
-- Founder of: Kimono network, Whisper, Whaleguard, Betaflight and many other open-source projects
+- Founder and Leader of the AstroLoon space-voyaging organization. 🚀
 - Mantainer and contributer of the Monero-project
 - Hobby Lisper and compiler enthusiast
 - Lives in Switzerland
