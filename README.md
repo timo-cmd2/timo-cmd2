@@ -5,8 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timo-cmd2" alt="timo-cmd2" /> </p> 
 
-- Founder and Leader of the AstroLoon space-voyaging organization. 🚀
+- 17 years old Founder and Leader of the AstroLoon space-voyaging startup. 🚀
 - Mantainer and contributer of the Monero-project
+- enthusiastic rubyist <3
 - Hobby Lisper and compiler enthusiast
 - Lives in Switzerland
 
@@ -40,6 +41,6 @@ Here are some ideas to get you started:
 
 #### 😎 About me
 
-Im a 16years old little dev doing a system engineer apprenticeship. Im highly focused and specialized on compiler-construction, os-dev and blockchain.
+Im a 17years old little dev doing a system engineer apprenticeship. Im highly focused and specialized on compiler-construction, os-dev and blockchain.
 
 I am a **big fan** of *Bluetooth low energy tech, IoT, UAV* and many others.
